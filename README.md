@@ -1,3 +1,6 @@
+[![Run on Repl.it](https://repl.it/badge/github/Darkempire78/Raid-Protect-Discord-Bot)](https://repl.it/github/Darkempire78/Raid-Protect-Discord-Bot)
+
+
 [![CodeFactor](https://www.codefactor.io/repository/github/darkempire78/Raid-Protect-Discord-Bot/badge/master)](https://www.codefactor.io/repository/github/darkempire78/Raid-Protect-Discord-Bot/overview/master) ![](https://img.shields.io/github/repo-size/Darkempire78/Raid-Protect-Discord-Bot)
 
 # Raid Protect Discord Bot
